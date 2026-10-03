@@ -69,6 +69,31 @@ The dashboard is published in Databricks. Access depends on the permissions conf
 
 Dashboard link:https://dbc-bcc5a84d-43ce.cloud.databricks.com/dashboardsv3/01f1bf17ed9b172ab8f89454e1af0091/published?o=7474648872892756.
 
+
+## Project Resources
+
+* [Data Warehouse Architecture](docs/data-warehouse-architecture.md)
+* [Architecture Diagram](docs/architecture-diagram.md)
+* [SQL Analysis Queries](sql/procurement_analysis.sql)
+
+## Dashboard Preview
+
+![Procurement Analytics Dashboard](screenshots/procurement-dashboard.png)
+
+[Open the published Databricks dashboard](https://dbc-bcc5a84d-43ce.cloud.databricks.com/dashboardsv3/01f1bf17ed9b172ab8f89454e1af0091/published?o=7474648872892756)
+
+> **Note:** The dashboard link requires appropriate Databricks workspace access. The screenshot and project documentation can be viewed directly on GitHub.
+
+## Key Skills Demonstrated
+
+* SQL querying and aggregation
+* PySpark data transformation
+* Bronze–Silver–Gold data processing
+* Star schema data modeling
+* Data quality validation
+* Dashboard design and KPI reporting
+
+
 ## Project Status
 
 Completed initial data warehouse development and dashboard creation. Further improvements could include automated ingestion, scheduled refreshes, and additional procurement KPIs.
