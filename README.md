@@ -77,7 +77,6 @@ Dashboard link:https://dbc-bcc5a84d-43ce.cloud.databricks.com/dashboardsv3/01f1b
 * [SQL Analysis Queries](sql/procurement_analysis.sql)
 
 ## Dashboard Preview
-
 ![Procurement Analytics Dashboard](screenshots/procurement-dashboard.png)
 
 [Open the published Databricks dashboard](https://dbc-bcc5a84d-43ce.cloud.databricks.com/dashboardsv3/01f1bf17ed9b172ab8f89454e1af0091/published?o=7474648872892756)
